@@ -98,7 +98,7 @@ The dataset used in this analysis is sourced from Kaggle. It contains [brief des
 
 ## =============Bivariate Analysis==================
 >> AMT_CREDIT and AMT_GOODS_PRICE are linearly correlated, if the AMT_CREDIT increases the defaulters are decreasing
->> People having income less than or equal to 1 ml, are more like to take loans out of those who are taking loans of less than 1.5 million, could turn out to be defaulters. we can target income below 1 million and loan maount greater than 1.5 million
+>> People having income less than or equal to 1 ml, are more like to take loans out of those who are taking loans of less than 1.5 million, could turn out to be defaulters. we can target income below 1 million and loan amounts greater than 1.5 million
 >> People having children 1 to less than 5 are safer to give a loan
 >> People who can pay the annuity of 100K are more like to get the loan and that's up to less than 2ml (safer segment)
 
@@ -106,7 +106,7 @@ The dataset used in this analysis is sourced from Kaggle. It contains [brief des
  
 >> For the repairing purpose customers had applied mostly prev. and the same purpose has the most number of cancelations
 >> Most of the app. which were prev. either canceled or refused 80-90% of them are repayer in the current data
->> offers that were unused prev. now have the maximum number of defaulters despite having high income band customers
+>> offers that were unused prev. now have the maximum number of defaulters despite having high-income band customers
 
 ### Final Conclusion/Insights
 
@@ -126,7 +126,7 @@ The dataset used in this analysis is sourced from Kaggle. It contains [brief des
   * Income bracket could be below 1 ml.
   *  80-90% of the customers who were prev. canceled/refused, are repayers. The bank can do the analysis and can consider giving loans to these segments.
 
-# ====================precautions===============
+### ===========precautions===========
   >> org. Transport type 3 should be avoided
   >> Low-skill laborers and drivers  should be avoided
   >> offers prev. unused and high-income customers should be avoided
